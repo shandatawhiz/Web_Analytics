@@ -1,5 +1,5 @@
 import streamlit as st
-import atreamlit_analytics
+import streamlit_analytics
 
 
 with streamlit_analytics.track():
